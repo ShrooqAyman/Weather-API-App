@@ -29,11 +29,11 @@ git clone https://github.com/ShrooqAyman/Weather-API-App.git
 cd weather-api
 ```
 2. **Install dependencies**
-3. ```bash
+```bash
    pip install -r requirements.txt
    ```
-4. **Run Redis server**
-5. **Start the Flask server**
+3. **Run Redis server**
+4. **Start the Flask server**
 ```bash
 python app.py
 ```
